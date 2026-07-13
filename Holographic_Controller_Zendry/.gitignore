@@ -1,0 +1,12 @@
+.venv
+dist
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+models/*.joblib
+reports/*.pdf
+reports/*.docx
+reports/*.pptx

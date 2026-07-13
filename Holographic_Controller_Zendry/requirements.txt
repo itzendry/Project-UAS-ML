@@ -1,0 +1,14 @@
+opencv-python
+mediapipe==0.10.21
+pynput
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+shap
+streamlit
+joblib
+pypdf
