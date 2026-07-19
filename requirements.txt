@@ -8,7 +8,6 @@ seaborn
 plotly
 scikit-learn
 xgboost
-shap
 streamlit
 joblib
 pypdf
